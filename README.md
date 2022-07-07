@@ -1,16 +1,14 @@
-## 11 Express.js: Note Taker
+## Express.js Note Taker Application
 
-## Your Task
+## Task to Accomplish
 ```
-Your assignment is to modify starter code to create an application called 
-Note Taker that can be used to write and save notes. This application will use an 
+This application is called Note Taker and can be used to write and save notes. This application will use an 
 Express.js back end and will save and retrieve note data from a JSON file.
 ```
-The application’s front end has already been created. It's your job to build the 
-back end, connect the two, and then deploy the entire application to Heroku.
 
+
+## User Story
 ```
-User Story
 AS A small business owner
 I WANT to be able to write and save notes
 SO THAT I can organize my thoughts and keep track of tasks I need to complete
@@ -33,9 +31,11 @@ THEN I am presented with empty fields to enter a new note title and the note’s
 in the right-hand column
 ```
 
-![screenshot](Develop\public\assets\images\11-express-homework-demo-01.png)
+[Click here for the GitHub Repo link!](https://github.com/themetalsaint/NoteTaker)
 
-```
-GitHub Repo: https://github.com/themetalsaint/NoteTaker
-Deployed Page: https://note-taker-062021.herokuapp.com/
-```
+[Click here for the Deployed Page!](https://note-taker-062021.herokuapp.com/)
+
+
+
+![screenshot](public\assets\images\11-express-homework-demo-02.png?raw=true "Working Screenshot")
+
