@@ -32,5 +32,5 @@ in the right-hand column
 
 
 
-![screenshot](public\assets\images\11-express-homework-demo-02.png?raw=true "Working Screenshot")
+![screenshot](public\assets\images\11-express-homework-demo-02.png)
 
