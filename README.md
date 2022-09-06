@@ -26,11 +26,12 @@ THEN I am presented with empty fields to enter a new note title and the note’s
 in the right-hand column
 ```
 
+![screenshot](public\assets\images\11-express-homework-demo-02.png?raw=true"working")
+
 [Click here for the GitHub Repo link!](https://github.com/themetalsaint/NoteTaker)
 
 [Click here for the Deployed Page!](https://note-taker-062021.herokuapp.com/)
 
 
 
-![screenshot](public\assets\images\11-express-homework-demo-02.png)
 
