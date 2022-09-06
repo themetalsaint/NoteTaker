@@ -26,7 +26,8 @@ THEN I am presented with empty fields to enter a new note title and the note’s
 in the right-hand column
 ```
 
-![screenshot](public\assets\images\11-express-homework-demo-03.jpeg)
+![11-express-homework-demo-02](https://user-images.githubusercontent.com/80214032/188621959-764e17d7-ee8b-4f95-804d-2563ebb82276.png)
+ 
 
 [Click here for the GitHub Repo link!](https://github.com/themetalsaint/NoteTaker)
 
